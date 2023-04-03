@@ -28,7 +28,7 @@ h1 {
   height: 0;
   min-height: 100vh;
   background-color: black;
-  background-image: url("/pics/rubaroo.jpg");
+  background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg");
   background-position: center;
   background-size: cover;
   overflow: hidden;
