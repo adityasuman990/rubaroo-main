@@ -40,7 +40,7 @@ h1 {
   right: 0;
   bottom: 0;
   left: 0;
-  background: radial-gradient(rgba(0, 0, 0, 0), black);
+  /* background: radial-gradient(rgba(0, 0, 0, 0), black); */
   pointer-events: none;
   /*z-index: -1;*/
   opacity: 1;
